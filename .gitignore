@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .venv/
 .vscode/
+PyInstaller_command.txt

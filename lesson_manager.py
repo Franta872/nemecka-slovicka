@@ -1,11 +1,17 @@
 from pathlib import Path
 import json
+import sys
 
-from pprint import pprint
+def resource_path(relative_path):
+    try:
+        base_path = Path(sys._MEIPASS)
+    except AttributeError:
+        base_path = Path(".")
+    return base_path / relative_path
 
 class LessonManager:
     def __init__(self, path: str = "lessons") -> None:
-        self.lessons_folder = Path(path)
+        self.lessons_folder = resource_path(path)
 
     def get_available_lessons(self) -> list:
         return [file.stem for file in self.lessons_folder.glob("*.json")]
@@ -15,9 +21,9 @@ class LessonManager:
         for lesson in lessons:
             loaded_lessons.update(json.loads((self.lessons_folder/f"{lesson}.json").read_text(encoding="utf-8")))
         self.lessons = []
-        for strana in loaded_lessons.values():
-            for slovo in strana:
-                self.lessons.append(slovo)
+        for page in loaded_lessons.values():
+            for word in page:
+                self.lessons.append(word)
         self.lessons_copy = self.lessons.copy()
         return self.lessons
     
@@ -28,6 +34,7 @@ class LessonManager:
             self.lessons_copy = self.lessons.copy()
 
 if __name__ == "__main__":
+    from pprint import pprint
     LessonMan = LessonManager()
     LessonMan.load_lessons(LessonMan.get_available_lessons())
     pprint(LessonMan.lessons, indent=4)

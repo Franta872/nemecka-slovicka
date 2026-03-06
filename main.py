@@ -1,6 +1,7 @@
 import vocabulary_selector as vc
 import checker
 import lesson_manager as lm
+from lesson_selection_dialog import lessonSelectionDialog
 
 import sys
 from PyQt6.QtWidgets import (QApplication, QMainWindow, QLabel, QWidget,
@@ -12,6 +13,7 @@ from PyQt6.QtCore import Qt
 LessonMan = lm.LessonManager("lessons")
 lessons = LessonMan.load_lessons(LessonMan.get_available_lessons())
 
+
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
@@ -20,9 +22,18 @@ class MainWindow(QMainWindow):
         self.setWindowIcon(QIcon(r"icon.ico"))
         self.phase = 0
         self.points = {"correct": 0, "wrong": 0}
+        self.open_lesson_dialog()
         self.drawUI()
         self.distributor()
 
+    def open_lesson_dialog(self):
+        dialog = lessonSelectionDialog(LessonMan)
+
+        if dialog.exec():
+            selected = dialog.selected_lessons
+            words = LessonMan.load_lessons(selected)
+            #self.selector.set_words(words)
+            
     def drawUI(self):
         # creating widgets
         self.mainText = QLabel("Text", self)
@@ -32,16 +43,21 @@ class MainWindow(QMainWindow):
         self.mainInput = QLineEdit(self)
         self.mainButton = QPushButton("Zkontrolovat", self)
         self.hideButton = QPushButton("Skrýt", self)
+        self.editLessons = QPushButton("Upravit výběr lekcí", self)
         # editing widgets
         self.mainButton.pressed.connect(self.distributor)
         self.mainInput.returnPressed.connect(self.distributor)
         self.hideButton.clicked.connect(self.hideResultsText)
+        self.editLessons.clicked.connect(self.editLessonsButton)
         
-        self.hideButton.setMinimumWidth(62)
-        self.hideButton.setMinimumHeight(20)
-        self.mainButton.setObjectName("mainButton")
+        self.hideButton.setMinimumSize(62, 20)
         self.hideButton.setObjectName("hideButton")
+        self.mainButton.setObjectName("mainButton")
         self.mainInput.setObjectName("mainInput")
+        self.editLessons.setObjectName("editLessons")
+        self.editLessons.setMinimumSize(120, 20)
+        for button in [self.mainButton, self.hideButton, self.editLessons]:
+            button.setCursor(Qt.CursorShape.PointingHandCursor)
 
         self.setStyleSheet("""
         QPushButton#mainButton{
@@ -50,10 +66,10 @@ class MainWindow(QMainWindow):
             border-radius: 23px;
             font-weight: bold;
         }
-        QPushButton#mainButton:hover, QPushButton#hideButton:hover{
+        QPushButton#mainButton:hover, QPushButton#hideButton:hover, QPushButton#editLessons{
             background-color: hsl(256, 87%, 30%);
         }
-        QPushButton#hideButton {
+        QPushButton#hideButton, QPushButton#editLessons {
             background-color: hsl(256, 87%, 37%);
             border: 1.5px solid hsl(256, 87%, 10%);
             border-radius: 5px;
@@ -77,8 +93,9 @@ class MainWindow(QMainWindow):
         self.central_widget.setLayout(self.gridLayout)
         self.setCentralWidget(self.central_widget)
         
-        # adding wigets to layout
+        # adding widgets to layout
         self.gridLayout.addWidget(self.hideButton, 0, 1, Qt.AlignmentFlag.AlignRight)
+        self.gridLayout.addWidget(self.editLessons, 0, 0, Qt.AlignmentFlag.AlignLeft)
         self.gridLayout.addWidget(self.mainText, 1, 0)
         self.gridLayout.addWidget(self.results, 1, 1)
         self.gridLayout.addWidget(self.mainInput, 2, 0)
@@ -144,6 +161,10 @@ class MainWindow(QMainWindow):
     def hideResultsText(self):
         self.results.setVisible(not self.results.isVisible())
         self.hideButton.setText("Skrýt" if self.results.isVisible() else "Zobrazit")
+
+    def editLessonsButton(self):
+        self.open_lesson_dialog()
+        self.input()
 
 
 def main():
