@@ -1,0 +1,821 @@
+{
+  "strana_60": [
+    {
+      "cz": [
+        "sešit"
+      ],
+      "de": [
+        "Heft"
+      ],
+      "gender": "das",
+      "description": null
+    },
+    {
+      "cz": [
+        "pero"
+      ],
+      "de": [
+        "Kugelschreiber",
+        "Kuli"
+      ],
+      "gender": "der",
+      "description": null
+    },
+    {
+      "cz": [
+        "pravítko"
+      ],
+      "de": [
+        "Lineal"
+      ],
+      "gender": "das",
+      "description": null
+    },
+    {
+      "cz": [
+        "krabička na make-up"
+      ],
+      "de": [
+        "Make-up-Box"
+      ],
+      "gender": "die",
+      "description": null
+    },
+    {
+      "cz": [
+        "vodovky"
+      ],
+      "de": [
+        "Malkasten"
+      ],
+      "gender": "der",
+      "description": null
+    },
+    {
+      "cz": [
+        "nůžky"
+      ],
+      "de": [
+        "Schere"
+      ],
+      "gender": "die",
+      "description": null
+    },
+    {
+      "cz": [
+        "zvýrazňovač"
+      ],
+      "de": [
+        "Textmarker",
+        "Marker"
+      ],
+      "gender": "der",
+      "description": null
+    },
+    {
+      "cz": [
+        "slovník"
+      ],
+      "de": [
+        "Wörterbuch"
+      ],
+      "gender": "das",
+      "description": null
+    }
+  ],
+  "strana_61": [
+    {
+      "cz": [
+        "banán"
+      ],
+      "de": [
+        "Banane"
+      ],
+      "gender": "die",
+      "description": null
+    },
+    {
+      "cz": [
+        "tužka"
+      ],
+      "de": [
+        "Bleistift"
+      ],
+      "gender": "der",
+      "description": null
+    },
+    {
+      "cz": [
+        "poznámkový blok",
+        "zápisník"
+      ],
+      "de": [
+        "Block"
+      ],
+      "gender": "der",
+      "description": null
+    },
+    {
+      "cz": [
+        "vidlička"
+      ],
+      "de": [
+        "Gabel"
+      ],
+      "gender": "die",
+      "description": null
+    },
+    {
+      "cz": [
+        "rtěnka"
+      ],
+      "de": [
+        "Lippenstift"
+      ],
+      "gender": "der",
+      "description": null
+    },
+    {
+      "cz": [
+        "sportovní bota"
+      ],
+      "de": [
+        "Turnschuch"
+      ],
+      "gender": "der",
+      "description": null
+    }
+  ],
+  "strana_62": [
+    {
+      "cz": [
+        "potřebovat"
+      ],
+      "de": [
+        "brauchen"
+      ],
+      "gender": null,
+      "description": null
+    },
+    {
+      "cz": [
+        "štěstí"
+      ],
+      "de": [
+        "Glück"
+      ],
+      "gender": "das",
+      "description": "Viel Glück!"
+    },
+    {
+      "cz": [
+        "penál",
+        "pouzdro"
+      ],
+      "de": [
+        "Mäppchen"
+      ],
+      "gender": "das",
+      "description": null
+    },
+    {
+      "cz": [
+        "mně",
+        "mi"
+      ],
+      "de": [
+        "mir"
+      ],
+      "gender": null,
+      "description": null
+    },
+    {
+      "cz": [
+        "čepice"
+      ],
+      "de": [
+        "Mütze"
+      ],
+      "gender": "die",
+      "description": null
+    },
+    {
+      "cz": [
+        "svetr"
+      ],
+      "de": [
+        "Pullover"
+      ],
+      "gender": "der",
+      "description": null
+    },
+    {
+      "cz": [
+        "guma"
+      ],
+      "de": [
+        "Radiergummi"
+      ],
+      "gender": "der",
+      "description": null
+    },
+    {
+      "cz": [
+        "škoda"
+      ],
+      "de": [
+        "schade"
+      ],
+      "gender": null,
+      "description": null
+    },
+    {
+      "cz": [
+        "už",
+        "již"
+      ],
+      "de": [
+        "schon"
+      ],
+      "gender": null,
+      "description": "Du schon wieder?"
+    },
+    {
+      "cz": [
+        "hledat"
+      ],
+      "de": [
+        "suchen"
+      ],
+      "gender": null,
+      "description": null
+    },
+    {
+      "cz": [
+        "tablet"
+      ],
+      "de": [
+        "Tablet"
+      ],
+      "gender": "das",
+      "description": null
+    },
+    {
+      "cz": [
+        "kalkulačka"
+      ],
+      "de": [
+        "Taschenrechner"
+      ],
+      "gender": "der",
+      "description": null
+    },
+    {
+      "cz": [
+        "opět",
+        "zase"
+      ],
+      "de": [
+        "wieder"
+      ],
+      "gender": null,
+      "description": null
+    }
+  ],
+  "strana_63": [
+    {
+      "gender": null,
+      "cz": [
+        "hnědý"
+      ],
+      "de": [
+        "braun"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "cz": [
+        "pastelka"
+      ],
+      "de": [
+        "Buntstift"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "počítačová myš"
+      ],
+      "de": [
+        "Computermaus"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "barva"
+      ],
+      "de": [
+        "Farbe"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "láhev"
+      ],
+      "de": [
+        "Flasche"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "krabice s nálezy"
+      ],
+      "de": [
+        "Fundkiste"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "šedý"
+      ],
+      "de": [
+        "grau"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "cz": [
+        "školník"
+      ],
+      "de": [
+        "Hausemeister"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "zde: vyzvednout"
+      ],
+      "de": [
+        "holen"
+      ],
+      "description": "koho, co"
+    },
+    {
+      "gender": null,
+      "cz": [
+        "krátký"
+      ],
+      "de": [
+        "kurz"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "bohužel"
+      ],
+      "de": [
+        "leider"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "milý"
+      ],
+      "de": [
+        "lieb"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "věc"
+      ],
+      "de": [
+        "Sache"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "cz": [
+        "žák"
+      ],
+      "de": [
+        "Schüler"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "školačka"
+      ],
+      "de": [
+        "Schülerin"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "dokonce"
+      ],
+      "de": [
+        "sogar"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "plný"
+      ],
+      "de": [
+        "voll"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "měkký"
+      ],
+      "de": [
+        "weich"
+      ],
+      "description": null
+    }
+  ],
+  "strana_64": [
+    {
+      "gender": null,
+      "cz": [
+        "modrý"
+      ],
+      "de": [
+        "blau"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "žlutý"
+      ],
+      "de": [
+        "gelb"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "zelený"
+      ],
+      "de": [
+        "grün"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "oranžový"
+      ],
+      "de": [
+        "orange"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "pořádek"
+      ],
+      "de": [
+        "Ordnung"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "růžový"
+      ],
+      "de": [
+        "pink"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "červený"
+      ],
+      "de": [
+        "rot"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "říct"
+      ],
+      "de": [
+        "sagen"
+      ],
+      "description": "Sag mal!"
+    },
+    {
+      "gender": null,
+      "cz": [
+        "hrozný",
+        "strašný"
+      ],
+      "de": [
+        "schrecklich"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "černý"
+      ],
+      "de": [
+        "schwarz"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "tyrkysový"
+      ],
+      "de": [
+        "türkis"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "bílý"
+      ],
+      "de": [
+        "weiß"
+      ],
+      "description": null
+    }
+  ],
+  "strana_65": [
+    {
+      "gender": null,
+      "cz": [
+        "vysvětlit",
+        "vyložit"
+      ],
+      "de": [
+        "erklären"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "cz": [
+        "dospělý"
+      ],
+      "de": [
+        "Erwachsene"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "dospělá"
+      ],
+      "de": [
+        "Erwachsene"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "souhlasit"
+      ],
+      "de": [
+        "stimmen"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "sympatický"
+      ],
+      "de": [
+        "sympathisch"
+      ],
+      "description": null
+    },
+    {
+      "gender": "das",
+      "cz": [
+        "talent"
+      ],
+      "de": [
+        "Talent"
+      ],
+      "description": null
+    }
+  ],
+  "strana_66": [
+    {
+      "gender": null,
+      "cz": [
+        "staromódní"
+      ],
+      "de": [
+        "altmodisch"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "férový"
+      ],
+      "de": [
+        "fair"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "přátelský"
+      ],
+      "de": [
+        "freundlich"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "podlý",
+        "nesnesitelný",
+        "hrozný"
+      ],
+      "de": [
+        "gemein"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "nefér"
+      ],
+      "de": [
+        "unfair"
+      ],
+      "description": null
+    }
+  ],
+  "strana_67": [
+    {
+      "gender": "die",
+      "cz": [
+        "včela"
+      ],
+      "de": [
+        "Biene"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "chybný",
+        "nesprávný"
+      ],
+      "de": [
+        "falsch"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "Hej!",
+        "Hele!"
+      ],
+      "de": [
+        "Hey!"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "pomoc"
+      ],
+      "de": [
+        "Hilfe"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "cz": [
+        "hlad"
+      ],
+      "de": [
+        "Hunger"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "pořád"
+      ],
+      "de": [
+        "immer"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "kombinace"
+      ],
+      "de": [
+        "Kombination"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "školní jídelna"
+      ],
+      "de": [
+        "Mensa"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "cz": [
+        "lézt na nervy"
+      ],
+      "de": [
+        "nerven"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "cz": [
+        "svetřík"
+      ],
+      "de": [
+        "Pulli"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "cz": [
+        "show"
+      ],
+      "de": [
+        "Show"
+      ],
+      "description": null
+    }
+  ]
+}
