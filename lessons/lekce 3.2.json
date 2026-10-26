@@ -1,0 +1,930 @@
+{
+  "strana_20": [
+    {
+      "gender": "das",
+      "de": [
+        "Bad",
+        "Bäder"
+      ],
+      "cz": [
+        "koupelna"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "euer",
+        "eure",
+        "euer"
+      ],
+      "cz": [
+        "váš",
+        "vaše"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "fein"
+      ],
+      "cz": [
+        "fajn",
+        "bezva"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Garten",
+        "Gärten"
+      ],
+      "cz": [
+        "zahrada"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "gemütlich"
+      ],
+      "cz": [
+        "útulný"
+      ],
+      "description": null
+    },
+    {
+      "gender": "das",
+      "de": [
+        "Haus",
+        "Häuser"
+      ],
+      "cz": [
+        "dům"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "hinten"
+      ],
+      "cz": [
+        "vzadu"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "de": [
+        "Küche"
+      ],
+      "cz": [
+        "kuchyně"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "oben"
+      ],
+      "cz": [
+        "nahoře"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "praktisch"
+      ],
+      "cz": [
+        "praktický"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "rechts"
+      ],
+      "cz": [
+        "vpravo",
+        "na pravé straně"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "riesig"
+      ],
+      "cz": [
+        "obrovský"
+      ],
+      "description": null
+    },
+    {
+      "gender": "das",
+      "de": [
+        "Schlafzimmer"
+      ],
+      "cz": [
+        "ložnice"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "unser",
+        "unsere",
+        "unser"
+      ],
+      "cz": [
+        "náš",
+        "naše"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "unten"
+      ],
+      "cz": [
+        "dole"
+      ],
+      "description": null
+    },
+    {
+      "gender": "das",
+      "de": [
+        "Wohnzimmer"
+      ],
+      "cz": [
+        "obývací pokoj"
+      ],
+      "description": null
+    }
+  ],
+  "strana_21": [
+    {
+      "gender": "die",
+      "de": [
+        "Chips"
+      ],
+      "cz": [
+        "chipsy",
+        "brambůrky"
+      ],
+      "description": "mn. č."
+    },
+    {
+      "gender": null,
+      "de": [
+        "dunkel"
+      ],
+      "cz": [
+        "tmavý"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "hässlich"
+      ],
+      "cz": [
+        "ošklivý"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "hell"
+      ],
+      "cz": [
+        "světlý"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "links"
+      ],
+      "cz": [
+        "vlevo",
+        "na levé straně"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "de": [
+        "Mitte"
+      ],
+      "cz": [
+        "střed",
+        "polovina"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "modern"
+      ],
+      "cz": [
+        "moderní"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Saft",
+        "Säfte"
+      ],
+      "cz": [
+        "šťáva",
+        "mošt"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "schauen"
+      ],
+      "cz": [
+        "dívat se",
+        "vidět"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "unpraktisch"
+      ],
+      "cz": [
+        "nepraktický"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "de": [
+        "Wohnung"
+      ],
+      "cz": [
+        "byt"
+      ],
+      "description": null
+    },
+    {
+      "gender": "das",
+      "de": [
+        "Zimmer"
+      ],
+      "cz": [
+        "pokoj",
+        "místnost"
+      ],
+      "description": null
+    }
+  ],
+  "strana_22": [
+    {
+      "gender": "der",
+      "de": [
+        "Ball",
+        "Bälle"
+      ],
+      "cz": [
+        "míč"
+      ],
+      "description": null
+    },
+    {
+      "gender": "das",
+      "de": [
+        "Bett"
+      ],
+      "cz": [
+        "postel"
+      ],
+      "description": null
+    },
+    {
+      "gender": "das",
+      "de": [
+        "Geschirr"
+      ],
+      "cz": [
+        "nádobí"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "gleich"
+      ],
+      "cz": [
+        "stejný"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Glückwunsch",
+        "Glückwünsche"
+      ],
+      "cz": [
+        "blahopřání",
+        "gratulace"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "herzlich"
+      ],
+      "cz": [
+        "srdečný"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "können"
+      ],
+      "cz": [
+        "moci",
+        "umět"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "lieb"
+      ],
+      "cz": [
+        "milý",
+        "příjemný"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "müssen"
+      ],
+      "cz": [
+        "muset"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "perfekt"
+      ],
+      "cz": [
+        "dokonalý",
+        "perfektní"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "putzen"
+      ],
+      "cz": [
+        "čistit"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "saugen"
+      ],
+      "cz": [
+        "vysávat"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "sicher"
+      ],
+      "cz": [
+        "bezpečný",
+        "jistý"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "de": [
+        "Spaghetti"
+      ],
+      "cz": [
+        "špagety"
+      ],
+      "description": "mn. č."
+    },
+    {
+      "gender": null,
+      "de": [
+        "spülen"
+      ],
+      "cz": [
+        "mýt"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "streiten"
+      ],
+      "cz": [
+        "hádat se",
+        "dohadovat se"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "sturmfrei"
+      ],
+      "cz": [
+        "bez dozoru"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Zettel"
+      ],
+      "cz": [
+        "lístek",
+        "cedulka"
+      ],
+      "description": null
+    }
+  ],
+  "strana_23": [
+    {
+      "gender": "die",
+      "de": [
+        "Blume"
+      ],
+      "cz": [
+        "květina"
+      ],
+      "description": null
+    },
+    {
+      "gender": "das",
+      "de": [
+        "Brötchen"
+      ],
+      "cz": [
+        "houska"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Familienplaner"
+      ],
+      "cz": [
+        "rodinný rozvrh"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "gießen"
+      ],
+      "cz": [
+        "zalévat"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "kaufen"
+      ],
+      "cz": [
+        "koupit",
+        "kupovat"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "leeren"
+      ],
+      "cz": [
+        "vyprázdnit",
+        "vylít",
+        "vysypat"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Mülleimer"
+      ],
+      "cz": [
+        "odpadkový koš"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Vorschlag",
+        "Vorschläge"
+      ],
+      "cz": [
+        "návrh"
+      ],
+      "description": null
+    }
+  ],
+  "strana_24": [
+    {
+      "gender": null,
+      "de": [
+        "ins",
+        "in das"
+      ],
+      "cz": [
+        "do"
+      ],
+      "description": "předložka + člen"
+    }
+  ],
+  "strana_25": [
+    {
+      "gender": "die",
+      "de": [
+        "Ahnung"
+      ],
+      "cz": [
+        "ponětí"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "auf"
+      ],
+      "cz": [
+        "na"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "de": [
+        "Ecke"
+      ],
+      "cz": [
+        "kout",
+        "roh"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "egal"
+      ],
+      "cz": [
+        "jedno",
+        "fuk"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "hinter"
+      ],
+      "cz": [
+        "za"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "de": [
+        "Kommode"
+      ],
+      "cz": [
+        "komoda"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "neben"
+      ],
+      "cz": [
+        "vedle"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Schrank"
+      ],
+      "cz": [
+        "skříň"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Schreibtisch"
+      ],
+      "cz": [
+        "psací stůl"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "de": [
+        "Schultasche"
+      ],
+      "cz": [
+        "aktovka",
+        "školní taška"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Sessel"
+      ],
+      "cz": [
+        "křeslo"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "unter"
+      ],
+      "cz": [
+        "pod"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "wieso"
+      ],
+      "cz": [
+        "jak to",
+        "proč"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "zusammen"
+      ],
+      "cz": [
+        "dohromady",
+        "společně"
+      ],
+      "description": null
+    }
+  ],
+  "strana_26": [
+    {
+      "gender": "die",
+      "de": [
+        "Bank",
+        "Bänke"
+      ],
+      "cz": [
+        "lavice"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "de": [
+        "Brille"
+      ],
+      "cz": [
+        "brýle"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "glauben"
+      ],
+      "cz": [
+        "myslet",
+        "věřit"
+      ],
+      "description": null
+    },
+    {
+      "gender": "das",
+      "de": [
+        "Handy"
+      ],
+      "cz": [
+        "mobil",
+        "mobilní telefon",
+        "telefon"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "liegen"
+      ],
+      "cz": [
+        "ležet"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "de": [
+        "Tasche"
+      ],
+      "cz": [
+        "taška"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Teddybär"
+      ],
+      "cz": [
+        "plyšový medvídek"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Tisch"
+      ],
+      "cz": [
+        "stůl"
+      ],
+      "description": null
+    },
+    {
+      "gender": "das",
+      "de": [
+        "T-Shirt"
+      ],
+      "cz": [
+        "tričko"
+      ],
+      "description": null
+    }
+  ],
+  "strana_27": [
+    {
+      "gender": null,
+      "de": [
+        "chaotisch"
+      ],
+      "cz": [
+        "chaotický"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "duschen"
+      ],
+      "cz": [
+        "sprchovat",
+        "sprchovat se"
+      ],
+      "description": null
+    },
+    {
+      "gender": "das",
+      "de": [
+        "Esszimmer"
+      ],
+      "cz": [
+        "jídelna"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Film"
+      ],
+      "cz": [
+        "film"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "ordentlich"
+      ],
+      "cz": [
+        "uklizený"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "passieren"
+      ],
+      "cz": [
+        "stát se"
+      ],
+      "description": null
+    },
+    {
+      "gender": "die",
+      "de": [
+        "Polizei"
+      ],
+      "cz": [
+        "policie"
+      ],
+      "description": null
+    },
+    {
+      "gender": null,
+      "de": [
+        "sauber"
+      ],
+      "cz": [
+        "čistý"
+      ],
+      "description": null
+    },
+    {
+      "gender": "der",
+      "de": [
+        "Urlaub"
+      ],
+      "cz": [
+        "dovolená"
+      ],
+      "description": null
+    }
+  ]
+}
