@@ -34,7 +34,7 @@ def answer_checker(answer_gender, answer, question_type, cz, cz_visi, de, de_gen
 
     # rest of the word
     lang_var = de if question_type != "de" else cz
-    similarity = max(difflib.SequenceMatcher(None, answer.lower(), (de[x] if question_type != "de" else cz[x]).lower()).ratio() for x in range(len(de)))
+    similarity = max(difflib.SequenceMatcher(None, answer.lower(), (lang_var[x]).lower()).ratio() for x in range(len(lang_var)))
 
     if answer in lang_var:
         result = random.choice(["správně!", "výborně!", "dokonalé!"])
